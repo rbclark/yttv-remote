@@ -1,0 +1,6 @@
+git+https://github.com/rbclark/casttube.git@addYoutubeTV#egg=casttube
+git+https://github.com/rbclark/pychromecast.git@addYouTubeTV#egg=pychromecast
+RPi.GPIO
+flask
+requests_oauthlib
+requests
